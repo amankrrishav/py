@@ -35,9 +35,9 @@ Here is how the concepts progress through this repository:
 | **C. Operators** | [`src/c_operators/`](src/c_operators/) | Arithmetic (`+`, `-`, `*`, `/`, `//`, `%`, `**`), comparison (`<`, `>`, `==`, `!=`), logical (`and`, `or`, `not`) | `arithmetic_operations.py`, `relational_operations.py`, `logical_operations.py` |
 | **D. Control Flow** | [`src/d_control_flow/`](src/d_control_flow/) | Decision making: `if`, `if-else`, `if-elif-else` ladder, nested `if` | `simple_if.py`, `if_else_even_odd.py`, `grade_calculator.py`, `positive_even_check.py` |
 | **E. Loops** | [`src/e_loops/`](src/e_loops/) | Iteration with `for` & `range()`, `while` loops, string traversal, `break`, `continue` | `for_range_basics.py`, `string_iteration.py`, `while_counter.py`, `break_and_continue.py` |
-| **F. Functions** | [`src/f_functions/`](src/f_functions/) | Defining functions, parameter passing, return values, algorithmic checks | `prime_checker.py`, `factorial.py` |
+| **F. Functions** | [`src/g_functions/`](src/g_functions/) | Defining functions, parameter passing, return values, algorithmic checks | `prime_checker.py`, `factorial.py` |
 | **G. Strings** | [`src/h_strings/`](src/h_strings/) | Quotes in strings (single, double, triple, raw), string indexing (positive/negative), slicing | `string_quotes.py`, `string_indexing.py` |
-| **H. Practice Questions** | [`src/g_practice_questions/`](src/g_practice_questions/) | Hands-on challenges: math operations, table generators, range filters, countdowns | `q1_odd_or_even.py` to `q6_sum_of_two_numbers.py` |
+| **H. Practice Questions** | [`src/z_practice_questions/`](src/z_practice_questions/) | Hands-on challenges: math operations, table generators, range filters, countdowns | `q1_odd_or_even.py` to `q6_sum_of_two_numbers.py` |
 
 ---
 
@@ -55,7 +55,7 @@ python3 src/a_basics_and_io/print_formatting.py
 python3 src/c_operators/logical_operators/logical_operations.py
 python3 src/d_control_flow/if_elif_else_ladder/grade_calculator.py
 python3 src/e_loops/for_loop/for_range_basics.py
-python3 src/f_functions/prime_checker.py
+python3 src/g_functions/prime_checker.py
 ```
 
 ---
