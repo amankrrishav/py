@@ -36,7 +36,8 @@ Here is how the concepts progress through this repository:
 | **D. Control Flow** | [`src/d_control_flow/`](src/d_control_flow/) | Decision making: `if`, `if-else`, `if-elif-else` ladder, nested `if` | `simple_if.py`, `if_else_even_odd.py`, `grade_calculator.py`, `positive_even_check.py` |
 | **E. Loops** | [`src/e_loops/`](src/e_loops/) | Iteration with `for` & `range()`, `while` loops, string traversal, `break`, `continue` | `for_range_basics.py`, `string_iteration.py`, `while_counter.py`, `break_and_continue.py` |
 | **F. Functions** | [`src/f_functions/`](src/f_functions/) | Defining functions, parameter passing, return values, algorithmic checks | `prime_checker.py`, `factorial.py` |
-| **G. Practice Questions** | [`src/g_practice_questions/`](src/g_practice_questions/) | Hands-on challenges: math operations, table generators, range filters, countdowns | `q1_odd_or_even.py` to `q6_sum_of_two_numbers.py` |
+| **G. Strings** | [`src/h_strings/`](src/h_strings/) | Quotes in strings (single, double, triple, raw), string indexing (positive/negative), slicing | `string_quotes.py`, `string_indexing.py` |
+| **H. Practice Questions** | [`src/g_practice_questions/`](src/g_practice_questions/) | Hands-on challenges: math operations, table generators, range filters, countdowns | `q1_odd_or_even.py` to `q6_sum_of_two_numbers.py` |
 
 ---
 
