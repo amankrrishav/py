@@ -1,4 +1,4 @@
-# 🐍 My Python Learning Journey (100% Hand-Typed | Zero AI Code)
+# 🐍 My Python Learning
 
 [![Python CI](https://github.com/amankrrishav/py/actions/workflows/ci.yml/badge.svg)](https://github.com/amankrrishav/py/actions)
 [![Python Version](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
